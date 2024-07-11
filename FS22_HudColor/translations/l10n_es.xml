@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+  <translationContributors>Vanquish81</translationContributors>
+  <elements>
+    <e k="mod_title" v="HudColor"/>
+    <e k="settings_hud_color_label" v="Color HUD"/>
+    <e k="settings_hud_color_label_needs_restart" v="(¡¡Es necesario reiniciar para guardar!!)"/>
+    <e k="settings_hud_color_description" v="Cambia el color del HUD al seleccionado. ¡¡Después de cambiar, debes reiniciar para guardar!!"/>
+    <e k="settings_hud_color_option1" v="Predet. (Azul)"/>
+    <e k="settings_hud_color_option2" v="Rosa"/>
+    <e k="settings_hud_color_option3" v="Naranja"/>
+    <e k="settings_hud_color_option4" v="Rojo"/>
+    <e k="settings_hud_color_option5" v="Gris"/>
+    <e k="settings_hud_color_option6" v="Verde"/>
+  </elements>
+</l10n>
